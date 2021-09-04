@@ -67,7 +67,8 @@ button {
   }
   
   hr {
-    color: #1d3557;
+    color: #1868d8;
+    border: 2px solid;
   }
 
   .btn {
@@ -91,4 +92,12 @@ button {
 }
 a {
     margin: 0 auto;
+}
+
+.login-btn {
+    cursor: pointer;
+}
+.login-btn:hover {
+    cursor: pointer;
+    color: #e1f104;
 }

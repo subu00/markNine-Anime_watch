@@ -113,7 +113,7 @@ function App() {
                
                
                 {ratingList}
-                <button onClick={() => setLoggedIn(false)}>Logout</button>
+                <button className="login-btn" onClick={() => setLoggedIn(false)}>Logout</button>
                 
       
       <hr />
